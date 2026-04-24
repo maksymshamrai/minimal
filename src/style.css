@@ -5,10 +5,10 @@
   |============================
 */
 /* Common styles */
-@import url('./reset.css');
-@import url('./base.css');
-@import url('./container.css');
-@import url('./animations.css');
+@import url('./css/reset.css');
+@import url('./css/base.css');
+@import url('./css/container.css');
+@import url('./css/animations.css');
 
 /* Sections style */
 @import url('./header.css');
